@@ -1,5 +1,5 @@
 # Appointment Backend Microservice for MedCentral application
-This is a shared code repository for the Appointment Backend Microservice of MedCentral application
+This is a code repository for the Appointment Backend Microservice of MedCentral application
 
 [For testers & public - how to run the program]
 
