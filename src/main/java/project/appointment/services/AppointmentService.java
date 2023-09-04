@@ -39,7 +39,7 @@ public class AppointmentService {
         return AppointmentRepository.save(Appointment);
      }
 
-    //Updares an existing Appointment
+    //Updates an existing Appointment
     public Appointment updateAppointment(String id, Appointment Appointment) {
         
         Appointment existAppointment = getAppointment(id);

@@ -22,6 +22,7 @@ import javax.persistence.Column;
 @Document(collection = "appointment")
 public class Appointment {
 
+    //Appointment object to hold information pertaining to appointment
     @Id
     private ObjectId _id;
 
